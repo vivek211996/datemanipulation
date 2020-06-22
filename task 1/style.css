@@ -1,0 +1,8 @@
+body{
+    position: relative;
+    top:280px;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   line-height: auto;
+   background-image: url(bg.jpg)
+}
